@@ -1,0 +1,9 @@
+SWITCH_ON_IO: go to another process while waiting on IO 
+SWITCH_ON_END: waits for io process to complete
+
+--> SWITCH_ON_IO more effective use 
+
+IO_RUN_LATER: when io ends, run later (after everything else is done)
+IO_RUN_IMMEDIATE: when io ends, run immediate
+
+--> IO_RUN_IMMEDIATE more effective use
